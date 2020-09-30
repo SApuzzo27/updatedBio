@@ -1,7 +1,7 @@
 # updatedBio
 https://sapuzzo27.github.io/updatedBio/
 
-![]
+![](https://github.com/SApuzzo27/updatedBio/blob/master/assets/images/mainpage.png)
 
 # Unit 02 CSS and Bootstrap Homework: Responsive Portfolio
 
@@ -24,7 +24,6 @@ First, you will use the Bootstrap CSS Framework to create a mobile responsive po
 
 * The Bootstrap portfolio should minimize the use of media queries.
 
-* Screenshots are provided as a reference in the `Assets/Images` folder. Your app does not need to be _exactly_ like the images. Use Bootstrap to create a similar, responsive layout.
 
 ### Hints
 
