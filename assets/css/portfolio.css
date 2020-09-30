@@ -1,0 +1,32 @@
+.portfolioContainer {
+    padding-left: 3%;
+    padding-right: 3%;
+    border: 5px solid black;
+    margin-left: 7%;
+    margin-right: 10%;
+    position: relative;
+}
+
+
+.portCard {
+    background-color: whitesmoke;
+    height: 300px;
+    width: 300px;
+    padding: 5px;
+    border: 3px solid cornflowerblue;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 5%;
+    position: static;
+}
+
+.portCard img {
+    height:250px;
+    width: 250px;
+    margin: auto;
+    
+}
+
+.portCard-body {
+    text-align: center;
+}

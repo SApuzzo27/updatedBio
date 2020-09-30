@@ -1,0 +1,30 @@
+
+.bioContainer{
+    margin: 5% 5% 5% 5%;
+    padding: 2% 2% 2% 2%;
+    float: left;
+    border: solid 5px;
+    border-color: cornflowerblue; 
+    background-color: white;
+    padding: 10px;
+    }
+    
+    h2 {
+        color: cornflowerblue;
+        text-align: center;
+    }
+    
+    
+    #bio-image {
+        padding: 1%;
+        border: 2pt solid plum;
+    }
+    
+    #bio-image {
+        width: 200px;
+        height: 200px;
+    }
+    
+    
+    
+    
